@@ -1,0 +1,35 @@
+	JOGO ESCAPE FROM SOMETHING
+
+Elementos do grupo:
+		a37882	Cassiano Augusto Videira
+		a40238	José Pedro Baptista do Vale
+		a43720	Liliana Cristina Fernandes da Conceição Paquete
+
+
+DESCRIÇÃO DO JOGO
+
+Este jogo denominado "ESCAPE FROM SOMETHING", é um jogo de quebra-cabeças 
+cujo o objectivo resolve-lo movendo as peças até ao seu correspondente no 
+mapa de modo que possas ter acesso ao portal no qual podes vencer, 
+ao mesmo tempo em tudo que seja vermelho, caso nao tenhas 
+esses cuidados perdes o jogo, para jogar so precisas das teclas 
+onde podes mover o polígno para cima, para baixo, para direita ou para a
+esquerda, deste modo poderás mover as peças e esquivar dos obstaculos 
+ganhando assim que a peça estarem no seu respectivo lugar.
+
+
+
+
+REQUISITOS:
+
+
+COMANDOS:
+
+Teclas
+	seta para cima:       movimenta o poligno para cima
+	seta para baixo:      movimenta o poligno para baixo
+	seta para a esquerda: movimenta o poligno para esquerda
+	seta para a direita:  movimentao poligno para a direita
+Rato
+	botão direito:        acede ao menu
+
